@@ -1,0 +1,12 @@
+You: hello how are you
+
+AI: I am well, thank you for asking. How are you?
+
+You: I'm fine
+
+AI: I am glad to hear that. Is there anything I can help you with today?
+
+You: no I don't have access program
+
+AI: I understand. Is there anything else I can help you with today?
+
