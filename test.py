@@ -8,7 +8,7 @@ from datetime import date
 mixer.init()
 
 # Set Google Gemini API key (replace with your actual key)
-genai.configure(api_key="AIzaSyAnp-OK7Y2Vdb526wV21JqF3iNtWQSwN0M")
+genai.configure(api_key="GOOGLE_API_KEY")
 
 today = str(date.today())
 
